@@ -1,6 +1,6 @@
 # conusci
 
-A continuous delivery pipeline for FIXME
+A continuous delivery pipeline for [conus](github.com/conusio/conus).
 
 ## Usage
 
