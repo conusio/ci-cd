@@ -1,0 +1,22 @@
+/target
+/lib
+/classes
+/checkouts
+pom.xml
+*.jar
+*.class
+/.lein-*
+profiles.clj
+/.env
+.nrepl-port
+/log
+
+# for this project, do not keep db in vc.
+*.db
+.DS_Store
+# resources/public/images should only contain user-uploaded images, for now
+/resources/public/images
+# emacs auto-save files
+.#*
+# storing ssl creds here:
+keystore.jks
