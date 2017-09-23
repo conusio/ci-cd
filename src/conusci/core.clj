@@ -1,8 +1,8 @@
-(ns my-first-pipeline.core
+(ns conusci.core
   (:require
-   [my-first-pipeline.pipeline :as pipeline]
+   [conusci.pipeline :as pipeline]
    [lambdacd-git.core :as lambdacd-git]
-   [my-first-pipeline.ui-selection :as ui-selection]
+   [conusci.ui-selection :as ui-selection]
    [org.httpkit.server :as http-kit]
    [lambdacd.runners :as runners]
    [lambdacd.util :as util]

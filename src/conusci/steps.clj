@@ -1,4 +1,4 @@
-(ns my-first-pipeline.steps
+(ns conusci.steps
   (:require [lambdacd.steps.shell :as shell]
             [lambdacd-git.core :as lambdacd-git]
             [clojure.tools.logging :as log]))

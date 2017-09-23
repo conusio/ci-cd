@@ -1,4 +1,4 @@
-(ns my-first-pipeline.ui-selection
+(ns conusci.ui-selection
   (:require
     [hiccup.core :as h]
     [lambdaui.core :as lambdaui]

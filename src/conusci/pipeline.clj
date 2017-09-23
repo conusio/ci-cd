@@ -1,6 +1,6 @@
-(ns my-first-pipeline.pipeline
+(ns conusci.pipeline
   (:use [lambdacd.steps.control-flow]
-        [my-first-pipeline.steps])
+        [conusci.steps])
   (:require
         [lambdacd.steps.manualtrigger :as manualtrigger]))
 

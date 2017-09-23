@@ -1,4 +1,4 @@
-(defproject my-first-pipeline "0.1.0-SNAPSHOT"
+(defproject conusci "0.1.0-SNAPSHOT"
             :description "FIXME: write description"
             :url "http://example.com/FIXME"
             :dependencies [[lambdacd "0.13.2"]
@@ -11,4 +11,4 @@
                            [ch.qos.logback/logback-core "1.0.13"]
                            [ch.qos.logback/logback-classic "1.0.13"]]
             :profiles {:uberjar {:aot :all}}
-            :main my-first-pipeline.core)
+            :main conusci.core)
